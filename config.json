@@ -16,13 +16,13 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "botid",
+    "BOTNAME": "babu",
     "PREFIX": "/",
     "ADMINBOT": [
-        "100049852290233"
+        "100078558306936"
     ],
     "NDH": [
-        "100049852290233"
+        "100078558306936"
     ],
     "DATABASE": {
         "sqlite": {
